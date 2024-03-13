@@ -1,0 +1,37 @@
+Name: Avast
+Short Description: Avast Secure Browser is a browser with the built-in Security &
+  Privacy Center
+Description: The Avast Secure Browser, a Chromium-based web browser, is designed with
+  security and privacy at its core. It offers users a secure online experience by
+  integrating various protective features directly into the browsing experience. With
+  built-in ad-blocking, anti-tracking technologies, and advanced encryption measures,
+  it shields users from online threats while safeguarding their privacy. The browser's
+  Bank Mode ensures secure online transactions, while the Password Manager simplifies
+  and secures access to various accounts. Avast's focus on security extends to its
+  SecureLine VPN integration, enhancing users' anonymity and protecting their data
+  from potential breaches.
+Table Entries:
+  Developer: Avast
+  First Release: ''
+  Latest Release: 119.1, 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.avast.com/secure-browser: http://www.avast.com/secure-browser
+  OS: Windows, macOS, iOS, Android
+  License: Freeware
+  Blog: ''
+  Forum:
+    Avast Secure Browser Forum: https://forum.avast.com/index.php?board=78.0
+  Repository: ''
+  Download page:
+    Avast Download Page: https://support.avast.com/en-en/article/install-secure-browser/
+  Key Features: Ad Blocker, Anti-Fingerprinting, Anti-Keylogger, Anti-Phishing, Anti-Tracking,
+    Antivirus, Cross-Device Sync, HTTPS Enforcement, Password Leak Detection, PRO
+    version, Secure Banking Mode, VPN
+  Keywords: Avast, Secure Browser, Privacy, Anti-Tracking, VPN, web browser
+Download Links:
+  Windows: https://cdn-download.avastbrowser.com/avast_secure_browser_setup.exe
+  macOS (Apple): https://cdn-download.avastbrowser.com/AvastSecureBrowserSetupARM.pkg
+  macOS (Intel): https://cdn-download.avastbrowser.com/AvastSecureBrowserSetup.pkg
+  iOS: https://apps.apple.com/app/avast-secure-browser/id1517761023
+  Android: https://play.google.com/store/apps/details?id=com.avast.android.secure.browser

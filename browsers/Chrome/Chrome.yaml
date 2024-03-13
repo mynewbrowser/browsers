@@ -1,0 +1,32 @@
+Name: Chrome
+Short Description: Chrome is a cross-platform web browser developed by Google
+Description: Google Chrome is a widely used web browser known for its speed, simplicity,
+  and robust performance. Developed by Google, it offers a user-friendly interface
+  with a focus on providing a smooth and efficient browsing experience. Chrome supports
+  a vast array of extensions from the Chrome Web Store, allowing users to personalize
+  their browsing with various add-ons and tools. It integrates seamlessly with Google
+  services, offers advanced synchronization across devices, and includes features
+  such as a built-in phishing and malware protection, automatic updates, and a powerful
+  omnibox for quick searches and URL inputs.
+Table Entries:
+  Developer: Google
+  First Release: 2 September 2008
+  Latest Release: 122.0.6261.94/95, 27 February 2024
+  Engine: Chromium-based (Blink, V8), WebKit on iOS
+  Website:
+    www.google.com/chrome: https://www.google.com/chrome/
+  OS: Windows, Linux, macOS, Android, iOS
+  License: Proprietary freeware based on open source components
+  Download page:
+    Chrome Download Page: https://www.google.com/chrome
+    Chrome Enterprise Download Page: https://chromeenterprise.google/browser/download
+  Key Features: ''
+  Keywords: ''
+Download Links:
+  Windows 11/10 (64-bit): https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B9560865D-32B0-9A7F-67F9-FE640B35ECB8%7D%26lang%3Den%26browser%3D3%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe
+  Windows 10 (32-bit): https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B9560865D-32B0-9A7F-67F9-FE640B35ECB8%7D%26lang%3Den%26browser%3D3%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dstable-arch_x86-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe
+  macOS (10.15 or later): https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg
+  Linux (64-bit Debian/Ubuntu): https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  Linux (64-bit Fedora/openSUSE): https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+  Android: https://play.google.com/store/apps/details?id=com.android.chrome
+  iOS: https://apps.apple.com/us/app/google-chrome/id535886823

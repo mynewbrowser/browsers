@@ -1,0 +1,38 @@
+Name: Pale Moon
+Short Description: Pale Moon is an open-source web browser with an emphasis on customization
+Description: Pale Moon is an open-source web browser built on Firefox's code. It focuses
+  on speed, efficiency, and customization, offering a familiar interface with enhanced
+  performance. With a commitment to preserving classic features, it retains support
+  for older extensions and themes. Its streamlined design aims to provide a lightweight
+  browsing experience while maintaining compatibility with modern web standards. Pale
+  Moon appeals to users seeking a customizable, fast, and stable browsing alternative.
+Table Entries:
+  Developer: Open-Source Community , Moonchild Productions
+  First Release: 4 October 2009
+  Latest Release: 33.0.1, 27 February 2024
+  Engine: Goanna, SpiderMonkey
+  Website:
+    www.palemoon.org: https://www.palemoon.org
+  OS: Windows, macOS, Linux
+  License: 'Hybrid licensing model, Source code: MPL-2.0 (mostly), Binaries: Proprietary
+    freeware or MPL-2.0'
+  Forum:
+    forum.palemoon.org: https://forum.palemoon.org
+  Blog: ''
+  Repository:
+    PaleMoon repository: https://repo.palemoon.org/MoonchildProductions/Pale-Moon
+  Key Features: ''
+  Download Page:
+    Pale Moon Download Page: http://www.palemoon.org/download.shtml
+  Keywords: ''
+Download Links:
+  Windows (64-bit): http://www.palemoon.org/download.php?mirror=us&bits=64&type=installer
+  Windows (64-bit Portable): https://www.palemoon.org/download.php?mirror=us&bits=64&type=portable
+  Windows (32-bit): http://www.palemoon.org/download.php?mirror=us&bits=32&type=installer
+  Windows (32-bit Portable): https://www.palemoon.org/download.php?mirror=us&bits=32&type=portable
+  Linux (64-bit GTK2): http://www.palemoon.org/download.php?mirror=us&bits=64&type=linuxgtk2
+  Linux (64-bit GTK3): http://www.palemoon.org/download.php?mirror=us&bits=64&type=linuxgtk3
+  macOS (64-bit Intel): http://www.palemoon.org/download.php?mirror=us&bits=64&type=macintel
+  macOS (ARM): http://www.palemoon.org/download.php?mirror=us&bits=64&type=macarm
+  FreeBSD (64-bit GTK2 beta): https://www.palemoon.org/download.php?mirror=us&bits=64&type=freebsdgtk2
+  FreeBSD (64-bit GTK3 beta): https://www.palemoon.org/download.php?mirror=us&bits=64&type=freebsdgtk3

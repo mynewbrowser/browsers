@@ -1,0 +1,40 @@
+Name: Maxthon
+Short Description: Maxthon is a multi-platform web browser with innovative features
+Description: Maxthon is a versatile web browser that seamlessly blends speed, security,
+  and efficiency. Its intuitive interface, combined with innovative features like
+  built-in notes, easy sharing and crypto wallet, empowers users to navigate the web
+  with ease and enhance their online experience.
+Table Entries:
+  Developer: Maxthon limited Ltd
+  First Release: '2002'
+  Latest Release: 7.1.7, 30 October 2023
+  Engine: Chromium-based (Blink, V8), WebKit on iOS
+  Website:
+    www.maxthon.com: https://www.maxthon.com
+  OS: Windows, macOS, iOS, Android
+  License: Freeware
+  Forum:
+    Maxthon Forum: https://forum.maxthon.com
+  Blog:
+    Maxthon Blog: https://www.maxthon.com/blog
+  Facebook:
+    Maxthon on Facebook: https://www.facebook.com/maxthon
+  Twitter:
+    Maxthon on Twitter: https://twitter.com/maxthon
+  Telegram:
+    t.me/nbdomain: https://t.me/nbdomain
+  Repository:
+    Maxthon on GitHub: https://github.com/aoyiteam/maxthon
+  Key Features: Crypto Wallet (VBox), built-in Notes (Maxnote), Easy Sharing (Quick
+    Send)
+  Download page:
+    Maxthon Download Page: https://www.maxthon.com/download
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://github.com/maxthon/Maxthon/releases/download/7.1.7.2000/maxthon_7.1.7.2000_x64.exe
+  Windows (64-bit Portable): https://github.com/maxthon/Maxthon/releases/download/7.1.7.2000/maxthon_portable_7.1.7.2000_x64.zip
+  Windows (32-bit): https://github.com/maxthon/Maxthon/releases/download/7.1.7.2000/maxthon_7.1.7.2000_x86.exe
+  Windows (32-bit Portable): https://github.com/maxthon/Maxthon/releases/download/7.1.7.2000/maxthon_portable_7.1.7.2000_x86.zip
+  macOS: https://github.com/maxthon/Maxthon_mac/releases/download/7.1.7.8100/Maxthon_mac_7.1.7.8100.dmg
+  iOs: https://apps.apple.com/app/maxthon-browser/id541052011
+  Android: https://play.google.com/store/apps/details?id=com.mx.browser

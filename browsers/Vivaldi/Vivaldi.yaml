@@ -1,0 +1,44 @@
+Name: Vivaldi
+Short Description: Vivaldi is a feature-rich and highly customizable browser
+Description: Vivaldi is a sophisticated and highly customizable web browser tailored
+  for discerning users seeking extensive control over their browsing experience. With
+  a focus on versatility, it offers a range of innovative features, including tab
+  stacking and tiled browsing, empowering users to organize and view multiple web
+  pages seamlessly. Its intuitive interface allows for easy customization, providing
+  users with the ability to tweak everything from themes to keyboard shortcuts, catering
+  to individual preferences. Vivaldi stands out for its robust privacy settings, providing
+  tools like tracker and ad blockers alongside features like a built-in notes panel,
+  enhancing productivity and security while browsing.
+Table Entries:
+  Developer: Vivaldi Technologies
+  First Release: April 6, 2016
+  Latest Release: 6.6, 29 February 2024
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.vivaldi.com: https://www.vivaldi.com
+  OS: Windows, macOS, Linux, Android, iOS
+  License: BSD-3 and Proprietary freeware
+  Forum:
+    forum.vivaldi.net: http://forum.vivaldi.net
+  Blog:
+    blogs.vivaldi.net: http://blogs.vivaldi.net
+  Vivaldi Social:
+    social.vivaldi.net: http://social.vivaldi.net
+  Repository: ''
+  Key Features: Tab Tools, Tab Stacking, Tab Hibernation, Tab Tiling, Web Panels,
+    User Profiles, Session Management, Reader View, Pop-out Video
+  Download page:
+    Vivaldi Download Page: https://vivaldi.com/download
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://downloads.vivaldi.com/stable/Vivaldi.6.6.3271.45.x64.exe
+  Windows (32-bit): https://downloads.vivaldi.com/stable/Vivaldi.6.6.3271.45.exe 
+  macOS: https://downloads.vivaldi.com/stable/Vivaldi.6.6.3271.45.universal.dmg
+  Linux (DEB 64-bit): https://downloads.vivaldi.com/stable/vivaldi-stable_6.6.3271.45-1_amd64.deb
+  Linux (RPM 64-bit): https://downloads.vivaldi.com/stable/vivaldi-stable-6.6.3271.45-1.x86_64.rpm
+  Linux (DEB ARM): https://downloads.vivaldi.com/stable/vivaldi-stable_6.6.3271.45-1_armhf.deb
+  Linux (DEB ARM64): https://downloads.vivaldi.com/stable/vivaldi-stable_6.6.3271.45-1_arm64.deb
+  Linux (RPM ARM): https://downloads.vivaldi.com/stable/vivaldi-stable-6.6.3271.45-1.armv7hl.rpm
+  Linux (RPM ARM64): https://downloads.vivaldi.com/stable/vivaldi-stable-6.6.3271.45-1.aarch64.rpm
+  Android: https://play.google.com/store/apps/details?id=com.vivaldi.browser
+  iOS: https://apps.apple.com/app/vivaldi-browser/id1633234600

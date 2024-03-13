@@ -1,0 +1,29 @@
+Name: Blisk
+Short Description: Blisk is a dedicated browser for web development and testing
+Description: Blisk is a specialized web browser for developers and designers to streamline
+  the process of creating and testing responsive websites and web applications. Built
+  on the Chromium project, it offers unique features like device emulation, synchronized
+  navigation between devices, and URL and scroll synchronization, allowing simultaneous
+  testing across multiple screen sizes. With developer tools akin to those in Chrome,
+  Blisk provides a dedicated environment for inspecting elements, debugging, and optimizing
+  performance, making it a valuable tool for web development and testing workflows.
+Table Entries:
+  Developer: ''
+  First Release: May 9, 2016
+  Latest Release: 22.0, 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    blisk.io: http://blisk.io
+  OS: Windows, Linux, macOS
+  License: Freeware under Blisk Terms of Service
+  Repository: ''
+  Download page:
+    Blisk Download Page: https://blisk.io/?download=browser
+  Key Features: Developer Tools with Premium Services
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://blisk.io/download/?os=win
+  Linux (64-bit Debian/Ubuntu): https://blisk.io/download/?os=linux-deb
+  Linux (64-bit Fedora/openSUSE): https://blisk.io/download/?os=linux-rpm
+  macOS (64-bit Intel): https://blisk.io/download/?os=mac
+  macOS (64-bit Apple): https://blisk.io/download/?os=mac-m1

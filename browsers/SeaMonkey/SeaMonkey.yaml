@@ -1,0 +1,34 @@
+Name: SeaMonkey
+Short Description: SeaMonkey browser is a part of the SeaMonkey open-source Internet
+  suite
+Description: SeaMonkey is a powerful and versatile web browser that combines the functionality
+  of a web browser, email client, newsreader, chat client, HTML editor, and web development
+  tools into a single, integrated application. It is based on the same source code
+  as Mozilla Firefox, but it adds a wide range of additional features and customization
+  options. SeaMonkey is a great choice for users who want a comprehensive and customizable
+  web experience.
+Table Entries:
+  Developer: Open-Source Community , SeaMonkey Council
+  First Release: January 30, 2006
+  Latest Release: 2.53.18, 9 December 2023
+  Engine: Gecko, SpiderMonkey
+  Website:
+    www.seamonkey-project.org: https://www.seamonkey-project.org
+  OS: Windows, macOS, Linux
+  License: MPL-2.0
+  Forum: ''
+  Download Page: ''
+  Blog:
+    blog.seamonkey-project.org: https://blog.seamonkey-project.org
+  Repository:
+    SeaMonkey on GitLab: https://gitlab.com/seamonkey-project/seamonkey-2.53-mozilla
+  Key Features: ''
+  Download page:
+    SeaMonkey Download Page: https://www.seamonkey-project.org/releases
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://archive.seamonkey-project.org/releases/2.53.18/win64/en-US/seamonkey-2.53.18.en-US.win64.installer.exe
+  Windows (32-bit): https://archive.seamonkey-project.org/releases/2.53.18/win32/en-US/seamonkey-2.53.18.en-US.win32.installer.exe
+  macOS (64-bit): https://archive.seamonkey-project.org/releases/2.53.18/mac/en-US/seamonkey-2.53.18.en-US.mac.dmg
+  Linux (64-bit): https://archive.seamonkey-project.org/releases/2.53.18/linux-x86_64/en-US/seamonkey-2.53.18.en-US.linux-x86_64.tar.bz2
+  Linux (32-bit): https://archive.seamonkey-project.org/releases/2.53.18/linux-i686/en-US/seamonkey-2.53.18.en-US.linux-i686.tar.bz2

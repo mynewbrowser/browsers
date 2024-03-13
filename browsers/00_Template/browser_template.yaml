@@ -1,0 +1,55 @@
+#
+# Browser Template
+#
+
+# Use this template to provide information about a new browser.
+# You can choose any name for your yaml file.
+# Only one yaml file is allowed.
+# Use other browsers in this repository as examples.
+
+# In this template below, replace the text between the angle brackets <...> with your text
+#  (also remove the brackets)
+
+
+
+Name: <Name of the browser>
+Short Description: <Short description ~100 characters>
+Description: <Longer description ~700 characters>
+Table Entries:
+  Developer: <Developer's name>
+  First Release: <First release in format "version, DD Month Year">
+  Latest Release: <Latest release in format "version, DD Month Year">
+  Engine: <Browser's engine>
+  Website:
+    <URL text>: <URL>
+  OS: <comma-separated list of the supported operating systems>
+  License: <Browser's license>
+  Download page:
+    <URL text>: <URL>
+  Key Features: <comma-separated list of the browser's key features>
+  Keywords: <comma-separated list of the browser's keywords>
+  
+  # Optional entries to external resources (source code, social platforms, etc.) 
+  Blog: 
+    <URL text>: <URL>
+  Forum:
+    <URL text>: <URL>
+  Repository: 
+    <URL text>: <URL>
+  Instagram: 
+    <URL text>: <URL>
+  <Your resource>:
+    <URL text>: <URL>
+  
+  # The general form to include your resource with several links:
+  #  (you can also use this syntax to provide several Developers, several Websites or several Download pages)
+  <Your Resource>:
+    <URL text>: <URL>
+    <URL text>: <URL>
+    <URL text>: <URL>
+
+
+Download Links:
+  <Operating System 1>: <URL>
+  <Operating System 2>: <URL>
+  <Operating System 3>: <URL>

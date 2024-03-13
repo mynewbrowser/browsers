@@ -1,0 +1,46 @@
+Name: Iridium
+Short Description: Iridium is a Chromium-based browser that improves user privacy
+  and security
+Description: Iridium Browser is a privacy-centric web browser based on the open-source
+  Chromium project. It emphasizes user privacy by disabling data transmission to search
+  engines and removing tracking elements. With enhanced security features and a familiar
+  interface, Iridium prioritizes user confidentiality and control over personal data.
+Table Entries:
+  Developer: NETitwork GmbH
+  First Release: 4 March 2016
+  Latest Release: 2023.09.116, 6 September 2023 (Windows, macOS) , 2023.11.119, 27
+    November 2023 (Linux)
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    iridiumbrowser.de/: https://iridiumbrowser.de/
+  OS: Windows, Linux, macOS
+  License: BSD-3 and others
+  Forum: ''
+  Blog: ''
+  Repository:
+    Iridium on GitHub: https://github.com/iridium-browser/iridium-browser
+  Facebook:
+    Iridium on Facebook: https://www.facebook.com/iridiumbrowserprivacy
+  Twitter:
+    Iridium on Twitter: https://twitter.com/iridiumbrowser
+  Fosstodon:
+    Iridium on Fosstodon: https://fosstodon.org/@IridiumBrowser
+  Key Features: ''
+  Download page:
+    Iridium Download Page: https://iridiumbrowser.de/downloads
+    Iridium Build Archive: https://downloads.iridiumbrowser.de
+  Keywords: ''
+Download Links:
+  Windows (64-bit Installer): https://downloads.iridiumbrowser.de/windows/iridiumbrowser-latest-x64.msi
+  Windows (64-bit Portable): https://downloads.iridiumbrowser.de/windows/iridiumbrowser-latest-x64.zip
+  Windows (32-bit Installer): https://downloads.iridiumbrowser.de/windows/iridiumbrowser-latest-x86.msi
+  Windows (32-bit Portable): https://downloads.iridiumbrowser.de/windows/iridiumbrowser-latest-x86.zip
+  macOS: https://downloads.iridiumbrowser.de/macos/iridium_browser_macos_latest.dmg
+  Linux (Fedora 37): https://downloads.iridiumbrowser.de/fedora_37/x86_64/iridium-browser-2023.11.119-1.fc37.x86_64.rpm
+  Linux (Fedora 38): https://downloads.iridiumbrowser.de/fedora_38/x86_64/iridium-browser-2023.11.119-1.fc38.x86_64.rpm
+  Linux (Fedora 39): https://downloads.iridiumbrowser.de/fedora_39/x86_64/iridium-browser-2023.11.119-1.fc39.x86_64.rpm
+  Linux (openSUSE Tumbleweed): https://downloads.iridiumbrowser.de/openSUSE_Tumbleweed/x86_64/iridium-browser-2023.11.119-2.2.x86_64.rpm
+  Linux (openSUSE Leap 15.5): https://downloads.iridiumbrowser.de/openSUSE_Leap_15.5/x86_64/iridium-browser-2023.11.119-lp155.2.1.x86_64.rpm
+  Linux (RHEL/CentOS 7): https://downloads.iridiumbrowser.de/epel7/x86_64/iridium-browser-2023.11.119-1.el7.x86_64.rpm
+  Linux (RHEL/CentOS 8): https://downloads.iridiumbrowser.de/epel8/x86_64/iridium-browser-2023.11.119-1.el8.x86_64.rpm
+  Linux (RHEL/CentOS 9): https://downloads.iridiumbrowser.de/epel9/x86_64/iridium-browser-2023.11.119-1.el9.x86_64.rpm

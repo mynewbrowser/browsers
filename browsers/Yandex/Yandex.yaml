@@ -1,0 +1,32 @@
+Name: Yandex
+Short Description: Yandex is a browser developed by the Russian technology corporation
+  Yandex
+Description: Yandex Browser is a versatile web browser developed in Russia that combines
+  the speed and reliability of Chrome with unique features tailored to global users.
+  Its built-in search engine, translation capabilities, and strong security measures
+  provide a seamless and personalized browsing experience for individuals worldwide.
+Table Entries:
+  Developer: Yandex
+  First Release: 1 October 2012
+  Latest Release: 23.11, 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    browser.yandex.com: https://browser.yandex.com
+  OS: Windows, macOS, Linux, Android, iOS
+  License: Freeware
+  Forum: ''
+  Blog:
+    Yandex Blog: https://dzen.ru/yandexbrowser
+  Twitter: ''
+  GitHub: ''
+  Key Features: ''
+  Download page:
+    Yandex Download Page: https://browser.yandex.com
+  Keywords: ''
+Download Links:
+  Windows: https://download.cdn.yandex.net/browser/int/23_11_3_935_52707/en/lite/Yandex.exe
+  Linux (Debian/Ubuntu): https://download.cdn.yandex.net/browser/yandex/23_11_1_714_51974/Yandex.deb
+  Linux (Fedora/openSUSE): https://download.cdn.yandex.net/browser/yandex/23_11_1_714_51974/Yandex.rpm
+  macOS: https://download.cdn.yandex.net/browser/yandex/24_1_1_911_54175/ru/Yandex.dmg
+  Android: https://play.google.com/store/apps/details?id=com.yandex.browser
+  iOS: https://apps.apple.com/app/yandex-browser/id483693909

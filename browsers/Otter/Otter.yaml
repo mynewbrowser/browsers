@@ -1,0 +1,25 @@
+Name: Otter
+Short Description: Otter Browser aims to recreate the best aspects of Opera 12
+Description: Otter Browser is an open-source browser based on the Qt Web framework.
+  It supports the classic Opera user interface.
+Table Entries:
+  Developer: Open-Source Community
+  First Release: 1 January 2014
+  Latest Release: 1.0.03, 22 February 2022
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    otter-browser.org: https://otter-browser.org/
+  OS: Windows, macOS, Linux
+  License: GPL-3.0
+  Forum:
+    Otter Forum: http://dndsanctuary.eu/index.php?board=9.0
+  Blog: ''
+  Repository:
+    Otter on GitHub: https://github.com/OtterBrowser/otter-browser
+  Key Features: classic Opera user interface
+  Download page:
+    Otter Download Page: https://sourceforge.net/projects/otter-browser/files
+  Keywords: ''
+Download Links:
+  Windows: https://altushost-swe.dl.sourceforge.net/project/otter-browser/otter-browser-1.0.03/otter-browser-win32-1.0.03-xp.zip
+  Linux: https://github.com/OtterBrowser/otter-browser/wiki/Packages

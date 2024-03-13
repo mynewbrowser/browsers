@@ -1,0 +1,37 @@
+Name: Tor
+Short Description: Tor is a browser for anonymous web surfing and protection against
+  traffic analysis
+Description: Tor is a free and open-source web browser that protects your privacy
+  by routing your traffic through a network of volunteer-operated servers. This makes
+  it difficult for anyone to track your online activity or your real-world identity.
+  Tor is especially useful for people who need to protect their anonymity, such as
+  journalists, activists, and political dissidents.
+Table Entries:
+  Developer: Tor Project
+  First Release: '2008'
+  Latest Release: 13.0.8, 21 December 2023<br>13.0.7, 19 December 2023 (Android)
+  Engine: Gecko
+  Website:
+    torproject.org: https://torproject.org/
+  OS: Windows, Linux, macOS, Android
+  License: Mozilla Public License
+  Forum: ''
+  Blog:
+    Tor Blog: https://blog.torproject.org
+  Repository:
+    Tor Repository: https://gitlab.torproject.org/tpo/applications/tor-browser
+  Key Features: Block trackers, defend against surveillance, resist fingerprinting,
+    multi-layered encryption
+  Download page:
+    Tor Download Page: https://www.torproject.org/download
+    Distribution Directory: https://dist.torproject.org/torbrowser
+  Keywords: ''
+Download Links:
+  Windows: https://www.torproject.org/dist/torbrowser/13.0.8/tor-browser-windows-x86_64-portable-13.0.8.exe
+  Linux: https://www.torproject.org/dist/torbrowser/13.0.8/tor-browser-linux-x86_64-13.0.8.tar.xz
+  macOS: https://www.torproject.org/dist/torbrowser/13.0.8/tor-browser-macos-13.0.8.dmg
+  Android (aarch64): https://dist.torproject.org/torbrowser/13.0.7/tor-browser-android-aarch64-13.0.7.apk
+  Android (arm): https://dist.torproject.org/torbrowser/13.0.7/tor-browser-android-armv7-13.0.7.apk
+  Android (x86_64): https://dist.torproject.org/torbrowser/13.0.7/tor-browser-android-x86_64-13.0.7.apk
+  Android (x86): https://dist.torproject.org/torbrowser/13.0.7/tor-browser-android-x86-13.0.7.apk
+  Android (Google Play): https://play.google.com/store/apps/details?id=org.torproject.torbrowser

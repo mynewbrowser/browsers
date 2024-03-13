@@ -1,0 +1,26 @@
+Name: K-Meleon
+Short Description: K-Meleon is a lightweight open-source browser for Windows
+Description: K-Meleon is a lightweight and customizable open-source web browser designed
+  for speed and efficiency. Built on the Gecko rendering engine, the same technology
+  powering Mozilla Firefox, K-Meleon offers a familiar browsing experience with a
+  focus on minimalism and performance.
+Table Entries:
+  Developer: Open-Source Community
+  First Release: 21 August 2000
+  Latest Release: 76.5.0, 30 December 2023
+  Engine: Gecko, Goanna
+  Website:
+    kmeleonbrowser.org: http://kmeleonbrowser.org
+  OS: Windows
+  License: GPL
+  Forum:
+    kmeleonbrowser.org/forum: http://kmeleonbrowser.org/forum/
+  Blog: ''
+  Repository:
+    K-Meleon on GitHub: https://github.com/roytam1/palemoon27/tree/kmeleon76
+  Key Features: ''
+  Download page:
+    K-Meleon Download Page: http://kmeleonbrowser.org/download.php
+  Keywords: ''
+Download Links:
+  Windows (Standalone): https://o.rthost.win/kmeleon/KM76.5.0-Goanna-20231230.7z

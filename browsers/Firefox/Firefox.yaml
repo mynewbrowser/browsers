@@ -1,0 +1,40 @@
+Name: Firefox
+Short Description: Firefox is a free and open-source web browser developed by the
+  Mozilla Foundation
+Description: Firefox is a widely-used open-source web browser known for its robustness,
+  privacy features, and customizable interface. Developed by Mozilla, it offers a
+  user-friendly experience while prioritizing user privacy and security. With a range
+  of built-in privacy tools such as Enhanced Tracking Protection and strict anti-tracking
+  policies, Firefox aims to safeguard users' online privacy. Its extensive add-on
+  library allows users to personalize their browsing experience, while regular updates
+  ensure performance improvements and adherence to web standards.
+Table Entries:
+  Developer: Mozilla Foundation
+  First Release: 23 September 2002
+  Latest Release: 123.0, 20 February 2024
+  Engine: Gecko, Quantum, SpiderMonkey
+  Website:
+    www.mozilla.org: https://www.mozilla.org
+  OS: Windows, Linux, macOS, Android, iOS
+  License: MPL 2.0
+  Forum: ''
+  Blog:
+    Mozilla Blog: https://blog.mozilla.org
+  Repository:
+    Firefox Source Tree Documentation: https://firefox-source-docs.mozilla.org
+  Key Features: tabbed browsing, full-screen mode, spell checking, incremental search,
+    smart bookmarks, download manager, bookmark tags, offline mode, screenshot tool
+  Download page:
+    Firefox Download Page: https://www.mozilla.org/firefox/all
+    Firefox Enterprise packages: https://www.mozilla.org/firefox/enterprise
+  Snapcraft:
+    Firefox in the Snapcraft Store: https://snapcraft.io/firefox
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://download.mozilla.org/?product=firefox-latest-ssl&os=win64
+  Windows (32-bit): https://download.mozilla.org/?product=firefox-latest-ssl&os=win
+  Linux (64-bit): https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64
+  Linux (32-bit): https://download.mozilla.org/?product=firefox-latest-ssl&os=linux
+  macOS: https://download-installer.cdn.mozilla.net/pub/firefox/releases/123.0/mac/en-US/Firefox%20123.0.dmg
+  Android: https://play.google.com/store/apps/details?id=org.mozilla.firefox
+  iOS: https://itunes.apple.com/us/app/firefox-private-safe-browser/id989804926

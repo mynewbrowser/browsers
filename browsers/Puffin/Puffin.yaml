@@ -1,0 +1,29 @@
+Name: Puffin
+Short Description: Puffin is a secure browser powered by remote cloud technology
+Description: Puffin Secure Browser is an innovative web browser that redefines browsing
+  speed, security, and efficiency. Unlike traditional browsers, Puffin offloads processing
+  tasks to remote servers, enabling it to handle even the most resource-intensive
+  web pages with incredible speed. This cloud-based architecture not only enhances
+  performance but also safeguards your device from malware and phishing attacks, ensuring
+  a safe and secure browsing experience.
+Table Entries:
+  Developer:
+    www.puffin.com: https://www.puffin.com/
+  First Release: November 23, 2010
+  Latest Release: 10.1.1.609, 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.puffin.com/secure-browser: https://www.puffin.com/secure-browser
+  OS: Windows, macOS
+  License: Proprietary
+  Forum: ''
+  Download Page: ''
+  Blog: ''
+  Repository: ''
+  Key Features: Cloud-based
+  Download page:
+    Puffin Download Page: https://www.puffin.com/secure-browser
+  Keywords: ''
+Download Links:
+  Windows: https://download.puffinbrowser.com/win/PuffinSecureBrowser-latest.php
+  macOS: https://download.puffinbrowser.com/mac/PuffinSecureBrowser-latest.php

@@ -1,0 +1,45 @@
+Name: Epic
+Short Description: Epic is a privacy-centric Chromium-based web browser
+Description: Epic is a privacy-centric web browser designed to prioritize user anonymity
+  and security. With a focus on protecting user privacy, it blocks trackers, cookies,
+  cryptominers, and other tracking elements that compromise online anonymity. Epic's
+  encrypted proxy service, known as the Epic Privacy Browser Proxy, further enhances
+  privacy by hiding the user's IP address and encrypting their browsing data. The
+  browser is tailored to prevent data collection by default and features a "One-Click
+  Encryption" option to secure web searches and connections. Additionally, Epic offers
+  a built-in ad blocker and fingerprinting protections to safeguard user data while
+  browsing the internet.
+Table Entries:
+  Developer: Hidden Reflex
+  First Release: July 15, 2010
+  Latest Release: 120.0.6099.71, 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.epicbrowser.com: https://www.epicbrowser.com
+  OS: Windows, macOS, Android, iOS
+  License: Proprietary
+  Forum:
+    forum.epicbrowser.com: https://forum.epicbrowser.com
+  Blog:
+    blog.epicbrowser.com: https://blog.epicbrowser.com
+  Facebook:
+    Epic on Facebook: https://www.facebook.com/epicbrowser/
+  Twitter:
+    Epic on Twitter: https://twitter.com/EpicBrowser
+  Repository: ''
+  Download page:
+    Epic Download Page: https://epicbrowser.com/thank-you
+  Key Features: Security, Privacy, Fingerprinting Protection, Ad and Tracker Blocking,
+    Encrypted Proxy, Reader Mode, Encrypted File Vault, Video Downloading, YouTube
+    Background Play, Audio Queue
+  Keywords: ''
+Download Links:
+  Windows (Installer): https://cdn.epicbrowser.com/winsetup/EpicSetup.exe
+  Windows (Archive): https://cdn.epicbrowser.com/winsetup/EpicSetup.zip
+  Windows (Standalone): https://cdn.epicbrowser.com/v120/mini_installer.exe
+  macOS (Intel): https://cdn.epicbrowser.com/v120intel/epic_120.0.6099.71.dmg
+  macOS (Intel Archive): https://cdn.epicbrowser.com/v120intel/Epic.zip
+  macOS (Apple): https://cdn.epicbrowser.com/v120arm/epic_120.0.6099.71.dmg
+  macOS (Apple Archive): https://cdn.epicbrowser.com/v120arm/Epic.zip
+  Android: https://play.google.com/store/apps/details?id=com.epic.browser
+  iOS: https://apps.apple.com/us/app/epic-privacy-browser-w-vpn/id1502032811

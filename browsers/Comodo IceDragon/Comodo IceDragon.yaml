@@ -1,0 +1,27 @@
+Name: Comodo IceDragon
+Short Description: Comodo IceDragon is a Firefox-based open source web browser with
+  Secure DNS Service
+Description: Comodo IceDragon is a web browser built upon the Mozilla Firefox codebase,
+  focusing on security and privacy. It offers a familiar Firefox-like interface with
+  additional security features, including Comodo's SiteInspector malware scanning
+  and SecureDNS service for safer browsing. IceDragon emphasizes protection against
+  online threats by providing features such as domain validation, anti-phishing, and
+  secure DNS settings. With its emphasis on security enhancements and privacy-focused
+  tools, IceDragon aims to provide users with a secure and robust browsing experience
+  based on the Mozilla Firefox platform.
+Table Entries:
+  Developer: Comodo Group
+  First Release: '2012'
+  Latest Release: 65.0.2.15, 19 June 2019
+  Engine: Firefox-based (Gecko/Quantum)
+  Website:
+    browser.comodo.com: https://browser.comodo.com/
+  OS: Windows
+  License: MPL 2.0
+  Repository: ''
+  Download page:
+    Comodo IceDragon Download Page: https://browser.comodo.com/
+  Key Features: ''
+  Keywords: ''
+Download Links:
+  Windows: https://download.comodo.com/icedragon/update/icedragonsetup.exe

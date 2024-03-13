@@ -1,0 +1,34 @@
+Name: Cent Browser
+Short Description: Cent Browser is a fast and lightweight Chromium-based browser
+Description: Cent Browser is a feature-rich web browser built on the Chromium open-source
+  project, combining user-friendly functionalities with enhanced browsing experiences.
+  It emphasizes customization options, offering a plethora of built-in features like
+  mouse gestures, scrollable tab bar, and ad blocker for a personalized browsing experience.
+  With privacy and security in mind, Cent Browser integrates robust features such
+  as anti-tracking, malware protection, and HTTPS encryption to safeguard user data.
+  Its innovative tools, such as memory optimization and low CPU usage, aim to provide
+  a smoother and efficient browsing environment.
+Table Entries:
+  Developer: Cent Studio
+  First Release: 16 December 2015
+  Latest Release: 5.0.1002.354, 21 May 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.centbrowser.com: https://www.centbrowser.com/
+  OS: Windows
+  License: Freeware
+  Forum:
+    Cent Browser Forum: https://www.centbrowser.net/en/
+  Facebook:
+    Cent Browser on Facebook: https://www.facebook.com/centbrowser
+  Repository: ''
+  Key Features: Scrollable Tab Bar, Super Drag
+  Download page:
+    Cent Download Page: https://www.centbrowser.com/index.html
+    Cent Static Server: https://static.centbrowser.com/
+  Keywords: ''
+Download Links:
+  Windows (32-bit): https://static.centbrowser.com/win_stable/5.0.1002.354/centbrowser_5.0.1002.354.exe
+  Windows (32-bit Portable): https://static.centbrowser.com/win_stable/5.0.1002.354/centbrowser_5.0.1002.354_portable.exe
+  Windows (64-bit): https://static.centbrowser.com/win_stable/5.0.1002.354/centbrowser_5.0.1002.354_x64.exe
+  Windows (64-bit Portable): https://static.centbrowser.com/win_stable/5.0.1002.354/centbrowser_5.0.1002.354_x64_portable.exe

@@ -1,0 +1,36 @@
+Name: Opera GX
+Short Description: Opera GX is a gaming-oriented browser from Opera
+Description: Opera GX is a specialized web browser crafted for gamers, offering unique
+  features tailored to gaming communities. It includes a GX control panel allowing
+  users to limit CPU, RAM, and network usage for a smoother gaming experience. With
+  integrations like Twitch and Discord, users can stay connected while playing. Its
+  sleek design, customizable themes, and built-in gaming news make it an immersive
+  browser for gaming enthusiasts. Additionally, GX Corner provides quick access to
+  gaming deals, releases, and events directly within the browser.
+Table Entries:
+  Developer:
+    Opera: https://www.opera.com
+  First Release: 11 June 2019
+  Latest Release: 106.0.4998.76, 6 Februar 2024
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.opera.com/gx: https://www.opera.com/gx
+  OS: Windows, macOS, Android, iOS
+  License: Proprietary
+  Forum:
+    Opera GX Forum: https://forums.opera.com/category/50/opera-gx
+  Blog: ''
+  Repository: ''
+  Key Features: CPU, RAM and Network limiters, Twitch and Discord integration, GX
+    Corner
+  Download page:
+    Opera GX Download Page: https://www.opera.com/download
+  Keywords: ''
+Download Links:
+  Windows (Online Installer): https://www.opera.com/computer/thanks?ni=eapgx&os=windows
+  Windows (64-bit): https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+GX&arch=x64
+  Windows (32-bit): https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+GX&arch=i386
+  macOS: https://www.opera.com/computer/thanks?ni=eapgx&os=mac
+  macOS (Offline): https://download.opera.com/download/get/?partner=www&opsys=MacOS&product=Opera+GX
+  iOS: https://operagx.gg/mobile-lp-ios
+  Android: https://operagx.gg/mobile-lp-android

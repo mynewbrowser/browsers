@@ -1,0 +1,51 @@
+Name: Opera
+Short Description: Opera is a fast, safe and smart browser with a free VPN and AI
+  chat
+Description: Opera is a feature-rich web browser known for its speed and versatility.
+  It boasts a user-friendly interface with integrated messengers, AI Chat, Crypto
+  Wallet, Ad Blocker and free VPN for enhanced privacy. Its innovative tools like
+  tab islands and visual bookmarks offer efficient browsing. Opera's commitment to
+  performance optimization ensures smooth navigation and customization options for
+  a personalized experience. With a strong emphasis on security and efficiency, Opera
+  remains a popular choice among internet users.
+Table Entries:
+  Developer:
+    Opera: https://www.opera.com
+  First Release: 10 April 1995
+  Latest Release: 107.0, 23 February 2024
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    Opera browser: https://www.opera.com/browsers/opera
+  OS: Windows, Linux, macOS, Android, iOS
+  License: Proprietary
+  Forum:
+    Opera Forum: https://forums.opera.com/category/54/opera-one
+  Blog:
+    Opera Blog: https://blogs.opera.com
+  Repository: ''
+  Facebook:
+    Opera on Facebook: https://www.facebook.com/Opera
+  Twitter:
+    Opera on Twitter: https://twitter.com/opera
+  YouTube:
+    Opera on YouTube: https://www.youtube.com/opera
+  Instagram:
+    Opera on Instagram: https://www.instagram.com/opera
+  Key Features: Chat with AI, Group tabs, share files, create pinboards, edit snapshots,
+    pop out videos, play music, manage cryptocurrency, block ads, free VPN, connect
+    desktop & mobile browsers, use with WhatsApp, Telegram, Instagram and etc.
+  Download page:
+    Opera Download Page: https://www.opera.com/browsers/opera
+  Snapcraft:
+    Opera in the Snapcraft Store: https://snapcraft.io/opera
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://download.opera.com/download/get/?partner=www&opsys=Windows&arch=x64
+  Windows (32-bit): https://download.opera.com/download/get/?partner=www&opsys=Windows&arch=i386
+  Linux (Debian/Ubuntu): https://download.opera.com/download/get/?partner=www&opsys=Linux
+  Linux (Fedora/openSUSE): https://download.opera.com/download/get/?partner=www&opsys=Linux&package=RPM
+  macOS: https://www.opera.com/computer/thanks?ni=stable&os=mac
+  macOS (Offline): https://download.opera.com/download/get/?partner=www&opsys=MacOS
+  iOS: https://apps.apple.com/app/id1411869974?pt=118728196&ct=OperaBrowserOperaCom&mt=8
+  Android (Google Play): https://app.appsflyer.com/com.opera.browser?pid=operacom&c=webpage
+  Android (.apk): https://download.opera.com/download/get/?partner=www&nothanks=yes&product=Android

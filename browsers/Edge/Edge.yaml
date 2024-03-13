@@ -1,0 +1,32 @@
+Name: Edge
+Short Description: Microsoft Edge is the default web browser on Windows
+Description: Microsoft Edge is the default web browser on Windows designed for speed,
+  security, and productivity. It's built on the Chromium engine, providing a fast
+  and familiar browsing experience. Edge offers robust privacy and security features,
+  including tracking prevention, secure browsing modes, and Microsoft Defender SmartScreen
+  for protection against malicious websites and downloads. With features like Collections
+  for organizing content, built-in Microsoft 365 integration, and support for extensions
+  from the Microsoft Edge Add-ons store, it aims to enhance user productivity and
+  deliver a seamless browsing experience across devices.
+Table Entries:
+  Developer: Microsoft
+  First Release: 29 April 2015
+  Latest Release: 122.0.2365.66, 1 March 2024
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.microsoft.com/edge: https://www.microsoft.com/edge
+  OS: Windows, macOS, iOS, Linux, Android
+  License: Proprietary software
+  Repository: ''
+  Download page:
+    Microsoft Edge Download Page: https://www.microsoft.com/en-us/edge/download
+    Download Microsoft Edge for Business: https://www.microsoft.com/en-us/edge/business/download
+  Key Features: AI-powered
+  Keywords: ''
+Download Links:
+  Windows 11/10: https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=en&brand=M100
+  macOS: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/73a07aa6-b8e8-4555-95b1-a709271ee36a/MicrosoftEdge-122.0.2365.63.pkg?platform=Mac&Consent=1&channel=Stable&brand=M10 
+  Linux (64-bit Debian/Ubuntu): https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_122.0.2365.63-1_amd64.deb?brand=M102
+  Linux (64-bit Fedora/openSUSE): https://packages.microsoft.com/yumrepos/edge/microsoft-edge-stable-122.0.2365.63-1.x86_64.rpm?brand=M102
+  Android: https://microsoftedgewelcome.microsoft.com/emmx/edge-download
+  iOS: https://microsoftedgewelcome.microsoft.com/emmx/edge-download

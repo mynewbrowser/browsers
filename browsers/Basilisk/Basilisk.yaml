@@ -1,0 +1,35 @@
+Name: Basilisk
+Short Description: Basilisk is a lightweight and efficient browser with a minimalist
+  user interface
+Description: Basilisk is an open-source browser that aims to retain useful technologies
+  removed in Firefox.
+Table Entries:
+  Developer: Basilisk Browser Team
+  First Release: '2017'
+  Latest Release: '2024.02.03'
+  Engine: Gecko, Goanna
+  Website:
+    basilisk-browser.org: https://basilisk-browser.org/
+  OS: Windows, macOS, Linux, FreeBSD
+  License: MPL 2.0
+  Blog: ''
+  Forum:
+    Basilisk Forum: https://forum.palemoon.org/viewforum.php?f=61
+  Repository:
+    Basilisk source code: https://repo.palemoon.org/Basilisk-Dev/Basilisk
+  Download page:
+    Basilisk Download Page: https://basilisk-browser.org/download.shtml
+  Key Features: ''
+  Keywords: ''
+Download Links:
+  Windows (64-bit installer): https://archive.basilisk-browser.org/2024.02.03/windows/x86_64/basilisk-20240203221426.win64.installer.exe
+  Windows (64-bit archive): https://archive.basilisk-browser.org/2024.02.03/windows/x86_64/basilisk-20240203221426.win64.7z
+  Windows (32-bit installer): https://archive.basilisk-browser.org/2024.02.03/windows/x86_32/basilisk-20240203163322.win32.installer.exe
+  Windows (32-bit archive): https://archive.basilisk-browser.org/2024.02.03/windows/x86_32/basilisk-20240203163322.win32.7z
+  Linux (64-bit GTK2): https://archive.basilisk-browser.org/2024.02.03/linux/x86_64/gtk2/basilisk-20240203211201.linux-x86_64-gtk2.tar.xz
+  Linux (64-bit GTK3): https://archive.basilisk-browser.org/2024.02.03/linux/x86_64/gtk3/basilisk-20240203205403.linux-x86_64-gtk3.tar.xz
+  Linux (64-bit ARM GTK2): https://archive.basilisk-browser.org/2024.02.03/linux/aarch64/gtk2/basilisk-20240203221413.linux-aarch64-gtk2.tar.xz
+  Linux (64-bit ARM GTK3): https://archive.basilisk-browser.org/2024.02.03/linux/aarch64/gtk3/basilisk-20240203213910.linux-aarch64-gtk3.tar.xz
+  macOS (64-bit Intel Beta): https://archive.basilisk-browser.org/2024.02.03/beta/mac/intel64/basilisk-20240204093842.intel64.dmg
+  macOS (64-bit Apple Beta): https://archive.basilisk-browser.org/2024.02.03/beta/mac/arm64/basilisk-20240204093807.arm64.dmg
+  FreeBSD (64-bit Beta): https://archive.basilisk-browser.org/2024.02.03/beta/freebsd/x86_64/gtk3/basilisk-20240204093552.freebsd13.2-x86_64-gtk3.tar.xz

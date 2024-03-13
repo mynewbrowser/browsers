@@ -1,0 +1,35 @@
+Name: Waterfox
+Short Description: Waterfox is an open-source privacy-focused web browser forked from
+  Firefox
+Description: Waterfox is a high-speed, privacy-focused web browser that prioritizes
+  user control and customization. Crafted with a commitment to preserving user privacy,
+  it offers extensive customization options while maintaining compatibility with Firefox
+  extensions. Its emphasis on speed and efficiency ensures a swift browsing experience,
+  ideal for users seeking both performance and privacy. Waterfox stands out for its
+  commitment to open-source values, fostering a community-driven approach to development
+  and ensuring transparency in its design and functionalities.
+Table Entries:
+  Developer: Alex Kontos , BrowserWorks Ltd.
+  First Release: March 27, 2011
+  Latest Release: G6.0.9, 20 February 2024
+  Engine: Gecko, SpiderMonkey
+  Website:
+    www.waterfox.net: https://www.waterfox.net
+  OS: Windows, macOS, Linux
+  License: MPL-2.0
+  Forum: ''
+  Blog:
+    Waterfox Blog: https://www.waterfox.net/blog
+  Twitter:
+    Waterfox on Twitter: https://twitter.com/Waterfoxproject
+  Repository:
+    Waterfox on GitHub: https://github.com/WaterfoxCo/Waterfox
+  Key Features: Tracking Protection,  Machine Learning powered translations, Private
+    Browsing, No telemetry
+  Download page:
+    Waterfox Download Page: https://www.waterfox.net/download
+  Keywords: ''
+Download Links:
+  Windows: https://cdn1.waterfox.net/waterfox/releases/G6.0.9/WINNT_x86_64/Waterfox%20Setup%20G6.0.9.exe
+  macOS: https://cdn1.waterfox.net/waterfox/releases/G6.0.9/Darwin_x86_64-aarch64/Waterfox%20G6.0.9.dmg
+  Linux: https://cdn1.waterfox.net/waterfox/releases/G6.0.9/Linux_x86_64/waterfox-G6.0.9.tar.bz2

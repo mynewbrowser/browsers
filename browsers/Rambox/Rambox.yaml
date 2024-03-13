@@ -1,0 +1,44 @@
+Name: Rambox
+Short Description: Rambox browser is a part of a messaging and email platform
+Description: 'Rambox is a powerful platform organizer that simplifies your digital
+  workspace, allowing you to seamlessly access and manage a vast array of web applications
+  from a single interface. Unlike traditional browsers, Rambox doesn''t limit itself
+  to web browsing; it integrates with a wide range of productivity tools, communication
+  apps, and social media platforms: Gmail, WhatsApp, Skype, Telegram, Instagram, Facebook,
+  Microsoft Teams, etc.'
+Table Entries:
+  Developer: Ramiro Saenz
+  First Release: '2016'
+  Latest Release: 2.2.3, 6 December 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    rambox.app: https://rambox.app
+  OS: Windows, macOS, Linux
+  License: Proprietary
+  Repository:
+    github.com/ramboxapp: https://github.com/ramboxapp
+  Forum: ''
+  Blog:
+    rambox.app/blog: https://rambox.app/blog/
+  Instagram:
+    instagram.com/rambox.app: https://instagram.com/rambox.app
+  Twitter:
+    twitter.com/ramboxapp: https://twitter.com/ramboxapp
+  Facebook:
+    facebook.com/ramboxapp: https://facebook.com/ramboxapp
+  Download Page: ''
+  Key Features: integration of multiple messaging and email services
+  Download page:
+    Rambox Windows Download Page: https://rambox.app/download-windows
+    Rambox macOS Download Page: https://rambox.app/download-mac
+    Rambox Linux Download Page: https://rambox.app/download-linux
+  Snapcraft:
+    Rambox in the Snapcraft Store: https://snapcraft.io/rambox
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://rambox.app/api/download?os=windows
+  macOS: https://rambox.app/api/download?os=mac
+  Linux (.snap): https://rambox.app/api/download?os=linux&package=snap
+  Linux (.AppImage): https://rambox.app/api/download?os=linux&package=AppImage
+  Linux (.rpm): https://rambox.app/api/download?os=linux&package=rpm
+  Linux (.deb): https://rambox.app/api/download?os=linux&package=deb

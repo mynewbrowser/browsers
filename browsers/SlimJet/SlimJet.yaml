@@ -1,0 +1,40 @@
+Name: SlimJet
+Short Description: SlimJet is a Chromium-based browser developed by FlashPeak Inc.
+Description: SlimJet is a speedy, lightweight, and feature-packed web browser that
+  empowers you to navigate the internet with efficiency and personalization. Powered
+  by the Blink rendering engine, the same engine used by Google Chrome, SlimJet delivers
+  blazing-fast page loading speeds and seamless compatibility with modern web standards.
+  Its built-in ad blocker and tracker blocker shield you from intrusive advertisements
+  and online trackers, ensuring a distraction-free and privacy-conscious browsing
+  experience.
+Table Entries:
+  Developer: FlashPeak, Inc.
+  First Release: '2015'
+  Latest Release: 42.0.1.0, 6 December 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.slimjet.com: https://www.slimjet.com/
+  OS: Windows, macOS, Linux
+  License: Freeware
+  Forum:
+    SlimJet Forum: https://www.slimjet.com/en/forum
+  Blog:
+    SlimJet Blog: https://www.slimjet.com/blog/
+  Facebook:
+    SlimJet on Facebook: https://www.facebook.com/groups/1005562782868919/
+  Repository: ''
+  Key Features: ''
+  Download page:
+    SlimJet Download Page: https://www.slimjet.com/en/dlpage.php
+  Keywords: ''
+Download Links:
+  Windows (64-bit Installer): https://www.slimjet.com/en/postdl.php?version=win64&type=web
+  Windows (64-bit Standalone): https://www.slimjet.com/en/postdl.php?version=win64&type=exe
+  Windows (64-bit Portable): https://www.slimjet.com/en/postdl.php?version=win64&type=zip
+  Windows (32-bit Installer): https://www.slimjet.com/en/postdl.php?version=win32&type=web
+  Windows (32-bit Standalone): https://www.slimjet.com/en/postdl.php?version=win32&type=exe
+  Windows (32-bit Portable): https://www.slimjet.com/en/postdl.php?version=win32&type=zip
+  macOS (Intel): https://www.slimjet.com/en/postdl.php?version=mac&type=dmg
+  macOS (Apple): https://www.slimjet.com/en/postdl.php?version=mac&type=arm
+  Linux (.deb): https://www.slimjet.com/en/postdl.php?version=lnx64&type=deb
+  Linux (.tar.xz): https://www.slimjet.com/en/postdl.php?version=lnx64&type=zip

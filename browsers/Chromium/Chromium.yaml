@@ -1,0 +1,39 @@
+Name: Chromium
+Short Description: Chromium is a free and open-source web browser project, the basis
+  for a variety of browsers
+Description: Chromium is an open-source web browser that serves as the foundation
+  for various other browsers. It offers a fast and secure browsing experience, featuring
+  a clean and user-friendly interface. As an open-source project, Chromium encourages
+  community contributions and extensions, allowing users to customize their browsing
+  experience. It includes robust privacy and security features, supports various platforms,
+  and provides access to a wide array of web applications and extensions from the
+  Chrome Web Store.
+Table Entries:
+  Developer: mainly Google
+  First Release: 2 September 2008
+  Latest Release: 122.0.6261.94, 29 February 2024
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.chromium.org/Home: https://www.chromium.org/Home
+  OS: Windows, Linux, macOS, Android, ChromiumOS
+  License: BSD-3 and others
+  Repository:
+    Chromium Source Code: https://chromium.googlesource.com/chromium/src
+  Download page:
+    download-chromium.appspot.com: https://download-chromium.appspot.com
+  Snapcraft:
+    Chromium in the Snapcraft Store: https://snapcraft.io/chromium
+  Blog:
+    Chromium Blog: https://blog.chromium.org/
+  Key Features: ''
+  Keywords: ''
+Download Links:
+  Windows (32-bit): https://download-chromium.appspot.com/?platform=Win&type=snapshots
+  Windows (64-bit): https://download-chromium.appspot.com/?platform=Win_x64&type=snapshots
+  macOS (Intel): https://download-chromium.appspot.com/?platform=Mac&type=snapshots
+  macOS (Apple): https://download-chromium.appspot.com/?platform=Mac_Arm&type=snapshots
+  Linux (32-bit): https://download-chromium.appspot.com/?platform=Linux&type=snapshots
+  Linux (64-bit): https://download-chromium.appspot.com/?platform=Linux_x64&type=snapshots
+  Android (32-bit): https://download-chromium.appspot.com/?platform=Android&type=snapshots
+  Android (64-bit): https://download-chromium.appspot.com/?platform=Android_Arm64&type=snapshots
+  ChromiumOS: https://download-chromium.appspot.com/?platform=Linux_ChromiumOS_Full&type=snapshots

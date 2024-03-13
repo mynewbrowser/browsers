@@ -1,0 +1,32 @@
+Name: qutebrowser
+Short Description: qutebrowser is a keyboard-driven, vim-like browser with a minimal
+  GUI
+Description: qutebrowser is a minimalist web browser designed for efficiency and keyboard-centric
+  navigation. It's built on Python and the QtWebKit engine, offering a lightweight
+  yet customizable browsing experience. With a focus on vim-like keybindings, users
+  can navigate, search, and control the browser entirely through keyboard commands.
+  Its clean interface and configurable settings cater to users seeking a streamlined
+  browsing workflow.
+Table Entries:
+  Developer: Florian Bruhin and contributors
+  First Release: December 14, 2014
+  Latest Release: 3.1.0, 8 December 2023
+  Engine: WebKit or QtWebEngine
+  Website:
+    www.qutebrowser.org/: https://www.qutebrowser.org/
+  OS: Windows, macOS, Linux
+  License: GPL-3.0
+  Forum: ''
+  Blog:
+    blog.qutebrowser.org: https://blog.qutebrowser.org/
+  Repository:
+    qutebrowser on GitHub: https://github.com/qutebrowser/qutebrowser
+  Key Features: vim-like navigation
+  Download page:
+    qutebrowser GitHub Releases: https://github.com/qutebrowser/qutebrowser/releases
+  Keywords: ''
+Download Links:
+  Windows (Installer): https://github.com/qutebrowser/qutebrowser/releases/download/v3.1.0/qutebrowser-3.1.0-amd64.exe
+  Windows (Standalone): https://github.com/qutebrowser/qutebrowser/releases/download/v3.1.0/qutebrowser-3.1.0-windows-standalone.zip
+  macOS: https://github.com/qutebrowser/qutebrowser/releases/download/v3.1.0/qutebrowser-3.1.0.dmg
+  Linux: https://www.qutebrowser.org/doc/install.html#_installing_qutebrowser

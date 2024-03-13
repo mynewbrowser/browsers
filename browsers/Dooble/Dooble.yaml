@@ -1,0 +1,29 @@
+Name: Dooble
+Short Description: Dooble is a minimal, scientific and stable browser
+Description: Dooble is a privacy-focused web browser emphasizing user security and
+  anonymity. With a minimalist interface, it integrates features such as encrypted
+  browsing, secure browsing mode, and a built-in privacy manager for cookies, cache,
+  and history. Its design prioritizes user privacy by default, aiming to shield users
+  from online tracking and data collection. Additionally, Dooble incorporates options
+  for customizing security settings and provides a clean browsing experience centered
+  on user confidentiality. Dooble is designed to be portable with the user interface
+  powered by Qt.
+Table Entries:
+  Developer: Dooble Project Team
+  First Release: August 2008
+  Latest Release: 2023.11.20, 20 November 2023
+  Engine: Qt WebEngine
+  Website:
+    textbrowser.github.io/dooble: https://textbrowser.github.io/dooble/
+  OS: Windows, macOS, Linux
+  License: BSD-3-Clause
+  Repository:
+    Dooble on GitHub: https://github.com/textbrowser/dooble
+  Download page:
+    Dooble Download Page: https://github.com/textbrowser/dooble/releases
+  Key Features: ''
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://github.com/textbrowser/dooble/releases/download/2023.11.30/Dooble-2023.11.30_Windows.zip
+  macOS: https://github.com/textbrowser/dooble/releases/download/2023.11.30/Dooble_2023.11.30.dmg
+  Linux (64-bit Debian/Ubuntu): https://github.com/textbrowser/dooble/releases/download/2023.11.30/Dooble-2023.11.30_amd64.deb

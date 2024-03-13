@@ -1,0 +1,30 @@
+Name: SlimBrowser
+Short Description: SlimBrowser is a Gecko-based browser developed by FlashPeak Inc.
+Description: SlimBrowser is a fast, lightweight, and feature-rich web browser that
+  offers a wealth of customization options to enhance your browsing experience. It
+  utilizes the Gecko rendering engine, the same engine used by Mozilla Firefox, to
+  deliver lightning-fast performance and compatibility with a wide range of web standards.
+  SlimBrowser's built-in ad blocker ensures a distraction-free browsing experience,
+  while its privacy protection features safeguard your online security.
+Table Entries:
+  Developer: FlashPeak, Inc.
+  First Release: ''
+  Latest Release: 18.0.0.0, 31 August 2023
+  Engine: Gecko
+  Website:
+    www.slimbrowser.net: https://www.slimbrowser.net/
+  OS: Windows
+  License: Freeware
+  Forum:
+    SlimBrowser Forum: https://www.slimbrowser.net/en/forum/
+  Blog: ''
+  Repository: ''
+  Key Features: ''
+  Download page:
+    SlimBrowser Download Page: https://www.slimbrowser.net/en/dlpage.php
+  Keywords: ''
+Download Links:
+  Windows (64-bit Installer): https://www.slimbrowser.net/download.php?version=exe&bit=x64
+  Windows (32-bit Installer): https://www.slimbrowser.net/download.php?version=exe&bit=x86
+  Windows (64-bit Portable): https://www.slimbrowser.net/download.php?version=zip&bit=x64
+  Windows (32-bit Portable): https://www.slimbrowser.net/download.php?version=zip&bit=x86

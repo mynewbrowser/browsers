@@ -1,0 +1,27 @@
+Name: Comodo Dragon
+Short Description: Comodo Dragon is a browser based on Chromium without Chrome's user
+  tracking
+Description: Comodo Dragon is a privacy-focused web browser designed to offer a secure
+  and fast browsing experience. Built on the Chromium open-source project, it provides
+  a familiar interface akin to Google Chrome while integrating enhanced security features.
+  With a focus on user privacy, Comodo Dragon features built-in domain validation
+  technology to identify secure websites and prevents cookies and other tracking elements
+  from compromising user data. Additionally, it includes a range of security enhancements,
+  such as SiteInspector malware scanning and secure DNS services, to safeguard users
+  against online threats while browsing the web.
+Table Entries:
+  Developer: Comodo Group
+  First Release: '2010'
+  Latest Release: 98.0.4758.102, 9 March 2022
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    browser.comodo.com: https://browser.comodo.com/
+  OS: Windows
+  License: Freeware
+  Repository: ''
+  Download page:
+    Comodo Dragon Download Page: https://browser.comodo.com/
+  Key Features: ''
+  Keywords: ''
+Download Links:
+  Windows: https://cdn.download.comodo.com/browser/release/dragon/x86/dragonsetup.exe

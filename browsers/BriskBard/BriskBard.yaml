@@ -1,0 +1,32 @@
+Name: BriskBard
+Short Description: BriskBard browser is a part of the BriskBard Internet suite
+Description: BriskBard is a versatile all-in-one internet suite featuring a web browser,
+  email client, media player, newsreader, IRC chat, and more, consolidated into a
+  single application. Offering a comprehensive set of tools, it aims to simplify online
+  activities by providing a unified platform for web browsing, communication, multimedia
+  playback, and information management. With its multi-tabbed interface and integrated
+  services, BriskBard offers users a seamless and efficient way to navigate the web,
+  manage emails, access media content, and engage in various online interactions within
+  a single application.
+Table Entries:
+  Developer: Salvador Diaz Fau
+  First Release: 21 November 2016
+  Latest Release: 3.7.0, 20 December 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.briskbard.com: https://www.briskbard.com
+  OS: Windows
+  License: Freeware
+  Forum:
+    www.briskbard.com/forum: https://www.briskbard.com/forum/
+  Repository: ''
+  Key features: Email client, Media player, IRC chat client, News aggregator, FTP
+    client, Usenet newsreader, Contact manager
+  Download page:
+    BriskBard Download Page: https://www.briskbard.com/index.php?lang=en&pageid=download
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://www.briskbard.com/BriskBard_Installer.exe
+  Windows (64-bit Portable): https://www.briskbard.com/BriskBard_Portable.zip
+  Windows (32-bit): https://www.briskbard.com/BriskBard_Installer32.exe
+  Windows (32-bit Portable): https://www.briskbard.com/BriskBard_Portable32.zip

@@ -1,0 +1,37 @@
+Name: Iron
+Short Description: SRWare Iron is a Chromium-based browser renowned for privacy and
+  security
+Description: SRWare Iron is a privacy-focused web browser based on the open-source
+  Chromium project. It prioritizes user privacy by removing certain features present
+  in Google Chrome that might compromise privacy, such as data tracking and user identification
+  functionalities. With an interface similar to Chrome's, SRWare Iron offers a familiar
+  browsing experience while enhancing user privacy and security. By default, Iron
+  doesn't transmit any data to Google servers, providing users with a browser option
+  that emphasizes data protection and privacy-conscious browsing.
+Table Entries:
+  Developer: SRWare
+  First Release: 18 September 2008
+  Latest Release: 118.0, 2 December 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.srware.net: https://www.srware.net/iron
+  OS: Windows, Linux, macOS, Android
+  License: BSD
+  Forum:
+    www.srware.net/forum: https://www.srware.net/forum/
+  Blog: ''
+  Repository: ''
+  Key Features: ''
+  Download page:
+    Iron Download Page: https://www.srware.net/iron/#downloads
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://www.srware.net/downloads/srware_iron64.exe
+  Windows (64-bit Portable): https://www.srware.net/downloads/IronPortable64.exe
+  Windows (32-bit): https://www.srware.net/downloads/srware_iron.exe
+  Windows (32-bit Portable): https://www.srware.net/downloads/IronPortable.exe
+  macOS (64-bit Intel): https://www.srware.net/downloads/iron-mac.dmg
+  macOS (64-bit Apple): https://www.srware.net/downloads/iron-macARM.dmg
+  Linux (64-bit): https://www.srware.net/downloads/iron64.deb
+  Linux (32-bit): https://www.srware.net/downloads/iron.deb
+  Android: https://play.google.com/store/apps/details?id=org.iron.srware

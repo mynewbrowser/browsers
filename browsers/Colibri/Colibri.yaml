@@ -1,0 +1,29 @@
+Name: Colibri
+Short Description: Colibri is a fast, efficient, lightweight browser without tabs
+Description: Colibri is a minimalistic, privacy-focused web browser without tabs designed
+  for efficiency and simplicity in browsing. With a clutter-free interface, it aims
+  to provide a distraction-free experience while browsing the web. It emphasizes speed
+  and resource efficiency, offering a lightweight yet functional browser experience.
+  Colibri integrates features for privacy, including built-in ad-blocking and tracker
+  prevention, enabling users to navigate the internet securely without compromising
+  on performance.
+Table Entries:
+  Developer: OPQR
+  First Release: 31 December 2017
+  Latest Release: 1.23.0, 24 December 2021
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    colibri.opqr.co: https://colibri.opqr.co/
+  OS: Windows, Linux, macOS
+  License: Proprietary
+  Repository: ''
+  Download page: ''
+  Snapcraft:
+    Colibri in the Snapcraft Store: https://snapcraft.io/colibri
+  Key Features: ''
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://colibri-api.opqr.co/releases/download/win32
+  Windows (32-bit): https://colibri-api.opqr.co/releases/download/win32-ia32
+  macOS: https://colibri-api.opqr.co/releases/download/darwin
+  Linux: https://snapcraft.io/colibri

@@ -1,0 +1,37 @@
+Name: LibreWolf
+Short Description: LibreWolf is a custom version of Firefox, focused on privacy, security
+  and freedom
+Description: LibreWolf is a privacy-focused browser built on Firefox's open-source
+  foundation. It prioritizes user privacy by blocking trackers and providing enhanced
+  security features. With a commitment to user freedom, LibreWolf offers customization
+  options while ensuring a clean, uncluttered browsing experience. Its emphasis on
+  privacy extends to strict user data protection, empowering individuals with control
+  over their online activities.
+Table Entries:
+  Developer: Open-Source Community
+  First Release: August 2019
+  Latest Release: 122.0.1-2, 14 February 2024
+  Engine: Gecko
+  Website:
+    librewolf.net: https://librewolf.net
+  OS: Windows, Linux, macOS
+  License: MPL-2.0
+  Blog: ''
+  Community:
+    Matrix room: https://matrix.to/#/#librewolf:matrix.org
+    r/librewolf: https://www.reddit.com/r/LibreWolf/
+    Lemmy: https://lemmy.ml/c/librewolf
+  Repository:
+    LibreWolf on Codeberg: https://codeberg.org/librewolf
+  Key Features: No telemetry, enhanced privacy, fast updates, open source
+  Download page:
+    LibreWolf Download Page: https://librewolf.net/installation
+    LibreWolf All Packages: https://gitlab.com/librewolf-community/browser/bsys6/-/releases
+  Keywords: ''
+Download Links:
+  Windows: https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/122.0.1-2/librewolf-122.0.1-2-windows-x86_64-setup.exe
+  Windows (MSIX Installer): https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/122.0.1-2/librewolf-122.0.1-2-windows-x86_64-msix.msix
+  Windows (Portable): https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/122.0.1-2/librewolf-122.0.1-2-windows-x86_64-portable.zip
+  macOS: https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/122.0.1-2/librewolf-122.0.1-2-macos-arm64-package.dmg
+  Linux (Debian/Ubuntu): https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/122.0.1-2/librewolf-122.0.1-2-linux-x86_64-deb.deb
+  Linux (Fedora/openSUSE): https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/122.0.1-2/librewolf-122.0.1-2-linux-x86_64-rpm.rpm

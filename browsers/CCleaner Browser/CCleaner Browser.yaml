@@ -1,0 +1,30 @@
+Name: CCleaner Browser
+Short Description: CCleaner Browser is a Chromium-based browser from the makers of
+  CCleaner
+Description: CCleaner Browser is a web browser that prioritizes user privacy, security,
+  and performance. Developed by the makers of the popular CCleaner PC optimization
+  software, this browser offers built-in tools to enhance online privacy by blocking
+  ads, trackers, and malicious content. With a focus on speed, it includes features
+  such as automatic data clearing to maintain user privacy, secure browsing with HTTPS
+  encryption, and an intuitive interface. The browser aims to provide a smooth and
+  secure browsing experience while empowering users to manage their online footprint
+  effectively.
+Table Entries:
+  Developer: Piriform Software Ltd.
+  First Release: ''
+  Latest Release: 120.0, 2023
+  Engine: Chromium-based (Blink, V8)
+  Website:
+    www.ccleaner.com/ccleaner/browser: https://www.ccleaner.com/ccleaner/browser
+  OS: Windows
+  License: Freeware
+  Forum:
+    CCleaner Browser Forum: https://community.ccleaner.com/forum/35-ccleaner-browser/
+  Repository: ''
+  Key Features: Anti-Tracking, Anti-Fingerprinting, Anti-Phishing, Privacy Cleaner,
+    Webcam Guard
+  Download page:
+    CCleaner Download Page: https://www.ccleaner.com/ccleaner/browser
+  Keywords: ''
+Download Links:
+  Windows (64-bit): https://cdn-download.ccleanerbrowser.com/ccleaner/ccleaner_browser_setup.exe
