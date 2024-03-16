@@ -9,7 +9,7 @@ Description: Tor is a free and open-source web browser that protects your privac
 Table Entries:
   Developer: Tor Project
   First Release: '2008'
-  Latest Release: 13.0.8, 21 December 2023<br>13.0.7, 19 December 2023 (Android)
+  Latest Release: 13.0.11, 6 March 2024
   Engine: Gecko
   Website:
     torproject.org: https://torproject.org/
@@ -27,11 +27,11 @@ Table Entries:
     Distribution Directory: https://dist.torproject.org/torbrowser
   Keywords: ''
 Download Links:
-  Windows: https://www.torproject.org/dist/torbrowser/13.0.8/tor-browser-windows-x86_64-portable-13.0.8.exe
-  Linux: https://www.torproject.org/dist/torbrowser/13.0.8/tor-browser-linux-x86_64-13.0.8.tar.xz
-  macOS: https://www.torproject.org/dist/torbrowser/13.0.8/tor-browser-macos-13.0.8.dmg
-  Android (aarch64): https://dist.torproject.org/torbrowser/13.0.7/tor-browser-android-aarch64-13.0.7.apk
-  Android (arm): https://dist.torproject.org/torbrowser/13.0.7/tor-browser-android-armv7-13.0.7.apk
-  Android (x86_64): https://dist.torproject.org/torbrowser/13.0.7/tor-browser-android-x86_64-13.0.7.apk
-  Android (x86): https://dist.torproject.org/torbrowser/13.0.7/tor-browser-android-x86-13.0.7.apk
+  Windows: https://www.torproject.org/dist/torbrowser/13.0.11/tor-browser-windows-x86_64-portable-13.0.11.exe
+  Linux: https://www.torproject.org/dist/torbrowser/13.0.11/tor-browser-linux-x86_64-13.0.11.tar.xz
+  macOS: https://www.torproject.org/dist/torbrowser/13.0.11/tor-browser-macos-13.0.11.dmg
+  Android (aarch64): https://dist.torproject.org/torbrowser/13.0.11/tor-browser-android-aarch64-13.0.11.apk
+  Android (arm): https://dist.torproject.org/torbrowser/13.0.11/tor-browser-android-armv7-13.0.11.apk
+  Android (x86_64): https://dist.torproject.org/torbrowser/13.0.11/tor-browser-android-x86_64-13.0.11.apk
+  Android (x86): https://dist.torproject.org/torbrowser/13.0.11/tor-browser-android-x86-13.0.11.apk
   Android (Google Play): https://play.google.com/store/apps/details?id=org.torproject.torbrowser
