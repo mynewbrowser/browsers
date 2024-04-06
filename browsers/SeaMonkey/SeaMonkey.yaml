@@ -10,7 +10,7 @@ Description: SeaMonkey is a powerful and versatile web browser that combines the
 Table Entries:
   Developer: Open-Source Community , SeaMonkey Council
   First Release: January 30, 2006
-  Latest Release: 2.53.18, 9 December 2023
+  Latest Release: 2.53.18.2, 28 March 2024
   Engine: Gecko, SpiderMonkey
   Website:
     www.seamonkey-project.org: https://www.seamonkey-project.org
@@ -27,8 +27,8 @@ Table Entries:
     SeaMonkey Download Page: https://www.seamonkey-project.org/releases
   Keywords: ''
 Download Links:
-  Windows (64-bit): https://archive.seamonkey-project.org/releases/2.53.18/win64/en-US/seamonkey-2.53.18.en-US.win64.installer.exe
-  Windows (32-bit): https://archive.seamonkey-project.org/releases/2.53.18/win32/en-US/seamonkey-2.53.18.en-US.win32.installer.exe
-  macOS (64-bit): https://archive.seamonkey-project.org/releases/2.53.18/mac/en-US/seamonkey-2.53.18.en-US.mac.dmg
-  Linux (64-bit): https://archive.seamonkey-project.org/releases/2.53.18/linux-x86_64/en-US/seamonkey-2.53.18.en-US.linux-x86_64.tar.bz2
-  Linux (32-bit): https://archive.seamonkey-project.org/releases/2.53.18/linux-i686/en-US/seamonkey-2.53.18.en-US.linux-i686.tar.bz2
+  Windows (64-bit): https://archive.seamonkey-project.org/releases/2.53.18.2/win64/en-US/seamonkey-2.53.18.2.en-US.win64.installer.exe
+  Windows (32-bit): https://archive.seamonkey-project.org/releases/2.53.18.2/win32/en-US/seamonkey-2.53.18.2.en-US.win32.installer.exe
+  macOS (64-bit): https://archive.seamonkey-project.org/releases/2.53.18.2/mac/en-US/seamonkey-2.53.18.2.en-US.mac.dmg
+  Linux (64-bit): https://archive.seamonkey-project.org/releases/2.53.18.2/linux-x86_64/en-US/seamonkey-2.53.18.2.en-US.linux-x86_64.tar.bz2
+  Linux (32-bit): https://archive.seamonkey-project.org/releases/2.53.18.2/linux-i686/en-US/seamonkey-2.53.18.2.en-US.linux-i686.tar.bz2

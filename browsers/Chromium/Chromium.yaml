@@ -11,7 +11,8 @@ Description: Chromium is an open-source web browser that serves as the foundatio
 Table Entries:
   Developer: mainly Google
   First Release: 2 September 2008
-  Latest Release: 122.0.6261.94, 29 February 2024
+  Latest Release: 123.0.6312.105 (latest/stable), 4 April 2024<br>
+                  125.0.6382.3 (latest/edge), 2 April 2024
   Engine: Chromium-based (Blink, V8)
   Website:
     www.chromium.org/Home: https://www.chromium.org/Home

@@ -11,7 +11,7 @@ Description: Microsoft Edge is the default web browser on Windows designed for s
 Table Entries:
   Developer: Microsoft
   First Release: 29 April 2015
-  Latest Release: 122.0.2365.66, 1 March 2024
+  Latest Release: 123.0.2420.81, 4 April 2024
   Engine: Chromium-based (Blink, V8)
   Website:
     www.microsoft.com/edge: https://www.microsoft.com/edge
@@ -25,8 +25,8 @@ Table Entries:
   Keywords: ''
 Download Links:
   Windows 11/10: https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=en&brand=M100
-  macOS: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/73a07aa6-b8e8-4555-95b1-a709271ee36a/MicrosoftEdge-122.0.2365.63.pkg?platform=Mac&Consent=1&channel=Stable&brand=M10 
-  Linux (64-bit Debian/Ubuntu): https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_122.0.2365.63-1_amd64.deb?brand=M102
-  Linux (64-bit Fedora/openSUSE): https://packages.microsoft.com/yumrepos/edge/microsoft-edge-stable-122.0.2365.63-1.x86_64.rpm?brand=M102
+  macOS: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d6b8a3e-0a7d-43fa-ae4b-cf5307e7f9d5/MicrosoftEdge-123.0.2420.81.pkg
+  Linux (64-bit Debian/Ubuntu): https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_123.0.2420.81-1_amd64.deb
+  Linux (64-bit Fedora/openSUSE): https://packages.microsoft.com/yumrepos/edge/microsoft-edge-stable-123.0.2420.81-1.x86_64.rpm
   Android: https://microsoftedgewelcome.microsoft.com/emmx/edge-download
   iOS: https://microsoftedgewelcome.microsoft.com/emmx/edge-download

@@ -11,7 +11,7 @@ Description: Firefox is a widely-used open-source web browser known for its robu
 Table Entries:
   Developer: Mozilla Foundation
   First Release: 23 September 2002
-  Latest Release: 123.0, 20 February 2024
+  Latest Release: 124.0.2, 2 April 2024
   Engine: Gecko, Quantum, SpiderMonkey
   Website:
     www.mozilla.org: https://www.mozilla.org
@@ -35,6 +35,6 @@ Download Links:
   Windows (32-bit): https://download.mozilla.org/?product=firefox-latest-ssl&os=win
   Linux (64-bit): https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64
   Linux (32-bit): https://download.mozilla.org/?product=firefox-latest-ssl&os=linux
-  macOS: https://download-installer.cdn.mozilla.net/pub/firefox/releases/123.0/mac/en-US/Firefox%20123.0.dmg
+  macOS: https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/en-US/osx/ea837e5a7d8bd08c16d60301f565b3884295fbd9d54656b1a4159e1ee6895724/Firefox%20124.0.2.dmg
   Android: https://play.google.com/store/apps/details?id=org.mozilla.firefox
   iOS: https://itunes.apple.com/us/app/firefox-private-safe-browser/id989804926
